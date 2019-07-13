@@ -1,8 +1,0 @@
-﻿  cApp.cpp
-  cMain.cpp
-  Generating code
-  55 of 971 functions ( 5.7%) were compiled, the rest were copied from previous compilation.
-    21 functions were new in current compilation
-    123 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Wx_widget library.vcxproj -> D:\VS PROJETS\Wx_widget library\Release\Wx_widget library.exe
